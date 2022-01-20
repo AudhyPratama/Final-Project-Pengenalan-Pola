@@ -21,6 +21,6 @@
 ##### 1. Unduh file terlebih dahulu dalam bentuk zip atau copy line code langsung dari github.
 ##### 2. Buka aplikasi code editor yang anda miliki (disini saya menggunakan Jupyter Notebook) atau code editor lain yang sudah terinstalasi extension untuk Jupyter Notebook atau bahasa pemrograman Python.
 ##### 3. Buka file yang ingin dijalankan pada code editor anda dengan opsi "Open" lalu klik file yang ingin dibuka.
-##### 4. Pastikan nama file yang ingin dibuka sudah benar dan semua library yang berhubungan dengan program sudah terimpor atau terinstall dengan benar.
+##### 4. Pastikan nama file yang ingin dibuka dan lokasi data yang akan diambil sebagai data training sudah benar dan semua library yang berhubungan dengan program sudah terimpor atau terinstall dengan benar.
 ##### 5. Jalankan program dengan menekan tombol "Run" untuk menjalankan blok kode atau "Run all" untuk menjalankan tiap-tiap blok kode.
 
